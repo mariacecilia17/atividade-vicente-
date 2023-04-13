@@ -1,0 +1,24 @@
+.maria{
+    background-color: rgb(202, 190, 190);
+    color: darkblue;
+    border-left: 5px solid rebeccapurple;
+    font-size: 16px;
+    padding: 3px;
+}
+
+.cecilia{
+    background-color:  rgb(206, 198, 198);;
+    color: darkblue;
+    border-left: 5px solid rebeccapurple;
+    font-size: 10px;
+    padding: 3px;
+}
+
+.caixa{
+    background-color: rgb(209, 198, 198);
+    color: rgb(121, 39, 39);
+    height: 70px;
+    font-size: 16px;
+    border-left: 5px solid black;
+    padding: 30px;
+}
